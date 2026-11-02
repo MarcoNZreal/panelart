@@ -1,10 +1,10 @@
 bibentry(
   bibtype = "Manual",
   title = "{panelart}: Atheoretical Regression Trees for Common Breaks in Panels of Time Series",
-  author = c(person("First", "Last")),  # replace with the real author(s)
+  author = c(person("Marco", "Reale")),  # replace with the real author(s)
   year = "2026",
   note = paste("R package version", meta$Version),
-  url = "https://github.com/YOUR-GITHUB-USERNAME/panelart",
+  url = "https://github.com/MarcoNZreal/panelart",
   textVersion = paste0("First Last (2026). panelart: Atheoretical Regression Trees for ",
                        "Common Breaks in Panels of Time Series. R package version ",
                        meta$Version, ".")
