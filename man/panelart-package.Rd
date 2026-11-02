@@ -30,11 +30,11 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{you@example.com}
+\strong{Maintainer}: Marco Reale \email{marco.reale@canterbury.ac.nz}
 
 Authors:
 \itemize{
-  \item First Last \email{you@example.com}
+  \item Marco Reale \email{marco.reale@canterbury.ac.nz}
 }
 
 }
