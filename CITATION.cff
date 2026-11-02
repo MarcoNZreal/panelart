@@ -4,10 +4,10 @@ title: "panelart: Atheoretical Regression Trees for Common Breaks in Panels of T
 version: 0.1.0
 # date-released: fill in at the first tagged release
 license: GPL-2.0-or-later
-repository-code: "https://github.com/YOUR-GITHUB-USERNAME/panelart"
+repository-code: "https://github.com/MarcoNZreal/panelart"
 authors:
-  - family-names: "Last"       # replace with the real author(s)
-    given-names: "First"
+  - family-names: "Reale"       # replace with the real author(s)
+    given-names: "Marco"
 references:
   - type: article
     title: "Identification of Changes in Mean with Regression Trees: An Application to Market Research"
