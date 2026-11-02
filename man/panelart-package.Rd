@@ -24,13 +24,18 @@ help pages come from the simulation studies in the source repository.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/YOUR-GITHUB-USERNAME/panelart}
-  \item Report bugs at \url{https://github.com/YOUR-GITHUB-USERNAME/panelart/issues}
+  \item \url{https://github.com/MarcoNZreal/panelart}
+  \item Report bugs at \url{https://github.com/MarcoNZreal/panelart/issues}
 }
 
 }
 \author{
 \strong{Maintainer}: First Last \email{you@example.com}
+
+Authors:
+\itemize{
+  \item First Last \email{you@example.com}
+}
 
 }
 \keyword{internal}

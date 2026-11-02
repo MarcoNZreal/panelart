@@ -1,7 +1,7 @@
 # panelart
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/YOUR-GITHUB-USERNAME/panelart/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/YOUR-GITHUB-USERNAME/panelart/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/MarcoNZreal/panelart/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MarcoNZreal/panelart/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 R package for **Atheoretical Regression Trees (ART)** applied to common breaks in a panel of
@@ -29,7 +29,7 @@ the mean changes between row `d` and row `d + 1`. For join points, `d` is the kn
 
 ```r
 # install.packages("remotes")
-remotes::install_github("YOUR-GITHUB-USERNAME/panelart")
+remotes::install_github("MarcoNZreal/panelart")
 ```
 
 Only base R packages (`stats`, `graphics`, `grDevices`, `parallel`) are needed.

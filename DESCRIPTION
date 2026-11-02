@@ -20,4 +20,4 @@ BugReports: https://github.com/MarcoNZreal/panelart/issues
 Encoding: UTF-8
 Language: en-US
 Imports: stats, graphics, grDevices, parallel
-RoxygenNote: 7.3.1
+Config/roxygen2/version: 8.1.1

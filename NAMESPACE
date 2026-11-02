@@ -30,21 +30,25 @@ export(art_whiten_matrix)
 export(art_xi_density)
 export(art_xi_quantile)
 importFrom(grDevices,adjustcolor)
-importFrom(graphics,abline)
-importFrom(graphics,legend)
-importFrom(graphics,lines)
-importFrom(graphics,matplot)
-importFrom(graphics,mtext)
-importFrom(graphics,par)
-importFrom(graphics,plot)
+importFrom(graphics,
+  abline,
+  legend,
+  lines,
+  matplot,
+  mtext,
+  par,
+  plot
+)
 importFrom(parallel,mclapply)
-importFrom(stats,aggregate)
-importFrom(stats,integrate)
-importFrom(stats,pnorm)
-importFrom(stats,qnorm)
-importFrom(stats,quantile)
-importFrom(stats,rnorm)
-importFrom(stats,runif)
-importFrom(stats,sd)
-importFrom(stats,setNames)
-importFrom(stats,uniroot)
+importFrom(stats,
+  aggregate,
+  integrate,
+  pnorm,
+  qnorm,
+  quantile,
+  rnorm,
+  runif,
+  sd,
+  setNames,
+  uniroot
+)
