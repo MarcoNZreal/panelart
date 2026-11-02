@@ -1,0 +1,4 @@
+"slope","jumps","cross","reps","both_found","missed_window","false_positive","mean_knots"
+0,"-","oracle",200,NA,NA,0.03,0.03
+0.05,"aligned","oracle",60,0.833333333333333,0.166666666666667,NA,1.86666666666667
+0.05,"orthogonal","oracle",60,0.916666666666667,0.05,NA,1.98333333333333

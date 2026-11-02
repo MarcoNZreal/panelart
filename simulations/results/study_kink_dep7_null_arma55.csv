@@ -1,0 +1,4 @@
+"errors","slope","lrv","reps","both_found","missed_window","false_positive","mean_knots","omega2_hat","omega2_true"
+"ARMA(1,1) .5,.5",0,"hac",100,NA,NA,0.07,0.07,3.70002164767466,3.85714285714286
+"ARMA(1,1) .5,.5",0,"ar_start",100,NA,NA,0.07,0.07,3.70002164767466,3.85714285714286
+"ARMA(1,1) .5,.5",0,"ar",100,NA,NA,0.14,0.17,3.41324703331523,3.85714285714286

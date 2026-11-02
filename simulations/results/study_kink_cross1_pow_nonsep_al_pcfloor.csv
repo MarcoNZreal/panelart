@@ -1,0 +1,2 @@
+"setting","N","T","slope","jumps","cross","reps","both_found","missed_window","false_positive","mean_knots"
+"nonsep, pc with floor",10,300,0.05,"aligned","pc",40,0.5,0.475,NA,1.65

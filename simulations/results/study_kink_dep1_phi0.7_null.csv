@@ -1,0 +1,3 @@
+"phi","design","method","reps","exact","extra_runs","missed_window","mean_knots","omega2_hat","omega2_true"
+0.7,"null","mc (iid)",100,0,1,0,9.99,NA,5.66666666666667
+0.7,"null","hac_mc",100,0.94,0.06,0,0.08,5.0081579966897,5.66666666666667

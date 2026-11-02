@@ -1,0 +1,2 @@
+"setting","N","T","slope","jumps","cross","reps","both_found","missed_window","false_positive","mean_knots"
+"factor AR(1) 0.7 + white idiosyncratic (non-separable)",10,300,0,"-","full",100,NA,NA,0.13,0.25

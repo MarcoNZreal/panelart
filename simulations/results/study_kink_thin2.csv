@@ -1,0 +1,5 @@
+"pattern","slope","reps","exact_before","exact_after","dup_runs_before","dup_runs_after","far_knot_runs_before","far_knot_runs_after"
+"same direction",0.03,400,0.8925,0.9125,0.0425,0.03,0.0725,0.065
+"same direction",0.04,400,0.875,0.905,0.065,0.0375,0.07,0.065
+"tent",0.03,400,0.87,0.895,0.06,0.0375,0.075,0.0725
+"tent",0.04,400,0.835,0.8925,0.0875,0.04,0.085,0.075

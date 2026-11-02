@@ -1,0 +1,4 @@
+"setting","N","T","slope","jumps","cross","reps","both_found","missed_window","false_positive","mean_knots"
+"equicorr 0.5, N=30",30,300,0,"-","none",80,NA,NA,0.65,1.375
+"equicorr 0.5, N=30",30,300,0,"-","separable",80,NA,NA,0.0375,0.0375
+"equicorr 0.5, N=30",30,300,0,"-","whiten",80,NA,NA,0.05,0.05

@@ -1,0 +1,31 @@
+"scenario","method","n_est","exact","any_break","found","mae"
+"null, no trend","classic_bic",0,1,0,NA,NA
+"null, no trend","classic_trend",0,1,0,NA,NA
+"null, no trend","mean_mc",0.0166666666666667,0.983333333333333,0.0166666666666667,NA,NA
+"null, no trend","trend_mc",0.0166666666666667,0.983333333333333,0.0166666666666667,NA,NA
+"null, no trend","kink_mc",0.05,0.95,0.05,NA,NA
+"null, common trend 0.01","classic_bic",1.61666666666667,0,1,NA,NA
+"null, common trend 0.01","classic_trend",0,1,0,NA,NA
+"null, common trend 0.01","mean_mc",3.45,0,1,NA,NA
+"null, common trend 0.01","trend_mc",0.05,0.95,0.05,NA,NA
+"null, common trend 0.01","kink_mc",0.05,0.966666666666667,0.0333333333333333,NA,NA
+"one kink 0.02","classic_bic",1.53333333333333,0.466666666666667,1,0,32.4666666666667
+"one kink 0.02","classic_trend",0.9,0.9,0.9,0.25,10.9444444444444
+"one kink 0.02","mean_mc",2.81666666666667,0,1,0.0833333333333333,15.2833333333333
+"one kink 0.02","trend_mc",1,1,1,0.283333333333333,11.4666666666667
+"one kink 0.02","kink_mc",1.03333333333333,0.966666666666667,1,0.783333333333333,3.8
+"one kink 0.04","classic_bic",3.03333333333333,0,1,0.0666666666666667,12.0333333333333
+"one kink 0.04","classic_trend",1,1,1,0.516666666666667,5.73333333333333
+"one kink 0.04","mean_mc",4.46666666666667,0,1,0.266666666666667,9.55
+"one kink 0.04","trend_mc",1.08333333333333,0.916666666666667,1,0.516666666666667,5.81666666666667
+"one kink 0.04","kink_mc",1.11666666666667,0.883333333333333,1,1,1.95
+"two kinks 0.03 + trend","classic_bic",3.66666666666667,0,1,0.25,12.1166666666667
+"two kinks 0.03 + trend","classic_trend",1,0,1,0,33
+"two kinks 0.03 + trend","mean_mc",6.83333333333333,0,1,0.416666666666667,8.05
+"two kinks 0.03 + trend","trend_mc",2.01666666666667,0.95,1,0.35,9.55
+"two kinks 0.03 + trend","kink_mc",2.11666666666667,0.883333333333333,1,0.733333333333333,3.99166666666667
+"level jump 0.6 (no slope)","classic_bic",1,1,1,1,0.55
+"level jump 0.6 (no slope)","classic_trend",0,0,0,0,NA
+"level jump 0.6 (no slope)","mean_mc",1.06666666666667,0.933333333333333,1,1,0.55
+"level jump 0.6 (no slope)","trend_mc",0.966666666666667,0.933333333333333,0.95,0.866666666666667,1.75438596491228
+"level jump 0.6 (no slope)","kink_mc",0.5,0.133333333333333,0.3,0.0166666666666667,39.8888888888889

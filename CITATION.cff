@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and cite Rea et al. (2010) for the original ART method."
+title: "panelart: Atheoretical Regression Trees for Common Breaks in Panels of Time Series"
+version: 0.1.0
+# date-released: fill in at the first tagged release
+license: GPL-2.0-or-later
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/panelart"
+authors:
+  - family-names: "Last"       # replace with the real author(s)
+    given-names: "First"
+references:
+  - type: article
+    title: "Identification of Changes in Mean with Regression Trees: An Application to Market Research"
+    authors:
+      - family-names: "Rea"
+        given-names: "William"
+      - family-names: "Reale"
+        given-names: "Marco"
+      - family-names: "Cappelli"
+        given-names: "Carmela"
+      - family-names: "Brown"
+        given-names: "Jennifer"
+    journal: "Econometric Reviews"
+    volume: 29
+    issue: "5-6"
+    start: 754
+    end: 777
+    year: 2010
+    doi: "10.1080/07474938.2010.482001"

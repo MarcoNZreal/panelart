@@ -1,0 +1,28 @@
+bibentry(
+  bibtype = "Manual",
+  title = "{panelart}: Atheoretical Regression Trees for Common Breaks in Panels of Time Series",
+  author = c(person("First", "Last")),  # replace with the real author(s)
+  year = "2026",
+  note = paste("R package version", meta$Version),
+  url = "https://github.com/YOUR-GITHUB-USERNAME/panelart",
+  textVersion = paste0("First Last (2026). panelart: Atheoretical Regression Trees for ",
+                       "Common Breaks in Panels of Time Series. R package version ",
+                       meta$Version, ".")
+)
+
+bibentry(
+  bibtype = "Article",
+  title = "Identification of Changes in Mean with Regression Trees: An Application to Market Research",
+  author = c(person("William", "Rea"), person("Marco", "Reale"),
+             person("Carmela", "Cappelli"), person("Jennifer", "Brown")),
+  journal = "Econometric Reviews",
+  year = "2010",
+  volume = "29",
+  number = "5-6",
+  pages = "754--777",
+  doi = "10.1080/07474938.2010.482001",
+  textVersion = paste0("Rea, W., Reale, M., Cappelli, C. and Brown, J. (2010). Identification of Changes ",
+                       "in Mean with Regression Trees: An Application to Market Research. ",
+                       "Econometric Reviews 29(5-6), 754-777. doi:10.1080/07474938.2010.482001"),
+  header = "Please also cite the original ART method:"
+)

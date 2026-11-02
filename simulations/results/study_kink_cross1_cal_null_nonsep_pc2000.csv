@@ -1,0 +1,2 @@
+"setting","N","T","slope","jumps","cross","reps","both_found","missed_window","false_positive","mean_knots"
+"nonsep, pc corrected, nsim 2000",10,300,0,"-","pc",45,NA,NA,0.0666666666666667,0.0666666666666667

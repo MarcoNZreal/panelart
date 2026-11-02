@@ -1,0 +1,3 @@
+"jumps","phi","cross","reps","one_knot","emp_sd","pred_sd_sandwich","pred_sd_whitened","pred_sd_scalar","mean_est_sd","coverage"
+"aligned",0.7,"separable",100,0.7,4.74011994152484,4.91104656793184,NA,2.17997061310305,2.47655681240915,0.728571428571429
+"aligned",0.7,"full",100,0.88,4.6600191495743,4.91104656793184,NA,2.17997061310305,4.01256118089392,0.897727272727273

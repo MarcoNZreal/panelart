@@ -1,0 +1,3 @@
+"errors","slope","lrv","reps","both_found","missed_window","false_positive","mean_knots","omega2_hat","omega2_true"
+"AR1 0.9",0,"ar_start",150,NA,NA,0.04,0.06,14.5554982538069,19
+"AR1 0.9",0,"ar",150,NA,NA,0.133333333333333,0.16,14.2558336424686,19

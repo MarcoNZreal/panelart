@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^\.gitignore$
+^LICENSE\.md$
+^CITATION\.cff$
+^simulations$
+^cran-comments\.md$
+^.*\.Rcheck$
+^.*\.tar\.gz$

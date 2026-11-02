@@ -1,0 +1,23 @@
+Package: panelart
+Type: Package
+Title: Atheoretical Regression Trees for Common Breaks in Panels of Time Series
+Version: 0.1.0
+Authors@R: person("First", "Last", email = "you@example.com", role = c("aut", "cre"))
+Description: Detects common structural breaks in a panel of time series by
+    pooled least squares. For breaks in the mean it implements classic greedy
+    binary regression trees with BIC or cost-complexity pruning (atheoretical
+    regression trees, Rea, Reale, Cappelli and Brown (2010)
+    <doi:10.1080/07474938.2010.482001>) and an extended estimator with a
+    forward-repartition-eliminate cycle, hull-merge thinning, penalties
+    calibrated by Monte Carlo or from long-run covariance estimates, whitening
+    and factor projection. For continuous piecewise-linear trends it provides
+    a join-point estimator with options for serially and cross-sectionally
+    dependent errors. Limit-law confidence intervals and simulation utilities
+    for Monte Carlo studies are included.
+License: GPL (>= 2)
+URL: https://github.com/YOUR-GITHUB-USERNAME/panelart
+BugReports: https://github.com/YOUR-GITHUB-USERNAME/panelart/issues
+Encoding: UTF-8
+Language: en-US
+Imports: stats, graphics, grDevices, parallel
+RoxygenNote: 7.3.1

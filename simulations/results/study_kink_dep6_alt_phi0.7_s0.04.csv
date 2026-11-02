@@ -1,0 +1,3 @@
+"phi","slope","lrv_extra","reps","exact","missed_window","false_positive","omega2_hat","omega2_true"
+0.7,0.04,0,40,0.625,0.35,NA,5.88506130874654,5.66666666666667
+0.7,0.04,2,40,0.775,0,NA,4.70421792266354,5.66666666666667

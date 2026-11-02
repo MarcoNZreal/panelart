@@ -1,0 +1,2 @@
+"setting","N","T","slope","jumps","cross","reps","both_found","missed_window","false_positive","mean_knots"
+"nonsep, pc resid, extra 2",10,300,0,"-","pc",100,NA,NA,0.03,0.03
